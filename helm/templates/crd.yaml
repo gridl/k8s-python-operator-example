@@ -11,7 +11,7 @@ spec:
   scope: Namespaced
   names:
     plural: copyrator
-    singular: crontab
+    singular: copyrator
     kind: CopyratorRule
     shortNames:
     - copyr
