@@ -1,7 +1,7 @@
 # CRD Settings
 CRD_GROUP = 'flant.com'
 CRD_VERSION = 'v1'
-CRD_PLURAL = 'copyrator'
+CRD_PLURAL = 'copyrators'
 
 # Type methods maps
 LIST_TYPES_MAP = {

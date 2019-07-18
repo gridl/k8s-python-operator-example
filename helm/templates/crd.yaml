@@ -10,7 +10,7 @@ spec:
     storage: true
   scope: Namespaced
   names:
-    plural: copyrator
+    plural: copyrators
     singular: copyrator
     kind: CopyratorRule
     shortNames:
